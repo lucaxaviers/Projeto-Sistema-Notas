@@ -1,4 +1,4 @@
-# Cadastro de Alunos - Projeto Escolar
+# 📚 Cadastro de Alunos - Projeto Escolar
 
 Este é um projeto escolar desenvolvido em Python para gerenciar o cadastro de alunos da disciplina de Algoritmos de Programação.
 
@@ -10,17 +10,17 @@ O sistema permite:
 - Mostrar o aluno com maior e menor média final
 - Calcular o percentual de alunos aprovados (média final acima de 5.0)
 
-## Tecnologias Utilizadas
+## 👨🏻‍💻 Tecnologias Utilizadas
 - Python 
 
-## Objetivo
+## 📍 Objetivo
 Praticar a criação de programas com:
 - Entrada e processamento de dados
 - Estruturas de repetição e decisão
 - Listas
 - Funções básicas em Python
 
-## Autores
+## 🙋 Desenvolvido Por
 - Mateus Oliveira
 - Lucas Xavier
 - Wanderley Vieira
