@@ -1,4 +1,4 @@
-# 📚 Cadastro de Alunos - Projeto Escolar
+# 📚 Cadastro de Alunos - Projeto Academico
 
 O sistema permite:
 - Cadastrar alunos com suas notas teóricas e de projetos
