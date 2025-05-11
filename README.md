@@ -1,4 +1,4 @@
-### 📚 Cadastro de Alunos - Projeto Academico
+## 📚 Cadastro de Alunos - Projeto Academico
 
 ## 💻 Sistema
 - Cadastrar alunos com suas notas teóricas e de projetos
