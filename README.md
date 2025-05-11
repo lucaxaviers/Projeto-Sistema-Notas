@@ -1,6 +1,6 @@
 ### 📚 Cadastro de Alunos - Projeto Academico
 
-O sistema permite:
+## 💻 Sistema
 - Cadastrar alunos com suas notas teóricas e de projetos
 - Calcular média teórica, média prática e média final
 - Exibir o boletim completo de todos os alunos
